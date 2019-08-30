@@ -8,7 +8,7 @@ public class SlackDemosApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SlackDemosApplication.class, args);
-		int a=0;
+		int a=0,b=0,c=0,d=0;
 	}
 /*this is a comment*/
 }
